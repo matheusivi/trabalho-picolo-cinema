@@ -37,7 +37,7 @@ O objetivo deste projeto é proporcionar uma experiência imersiva para leitura 
 ├── package-lock.json         # Detalhes das dependências do projeto
 ├── package.json              # Informações e dependências do projeto
 └── README.md                 # Documentação do projeto
-
+````
 ## Tecnologias Utilizadas
 
 - **Node.js**: Ambiente de execução de JavaScript no lado do servidor.
