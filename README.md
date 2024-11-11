@@ -1,5 +1,8 @@
 # Projeto de Review e Críticas de Filmes
 
+![image](https://github.com/user-attachments/assets/b393a3f4-b8c7-45a1-bd0d-1142d5afd3c7)
+
+
 Bem-vindo ao repositório do **Projeto de Review e Críticas de Filmes**! Este projeto é uma aplicação web que permite aos usuários explorar críticas de filmes e reviews, projetado para simular um site com o estilo de um catálogo de cinema. O projeto foi desenvolvido utilizando Node.js, JavaScript, EJS, HTML e CSS.
 
 ## Descrição do Projeto
